@@ -34,9 +34,10 @@ Figma
 
 ## CODE:
 
-'''
-Home Page 
+```
+Home Page
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -576,8 +577,7 @@ body {
   z-index: -1;
 }
 
-
-'''
+```
 
 ## OUTPUT:
 ![alt text](Figma.png)
