@@ -6,7 +6,7 @@ To design, develop and deploy a web application for event registration.
 
 ## DESIGN STEPS:
 
-### Step 1:
+### Step 1: 
 Create a new frame.
 
 ### Step 2:
@@ -34,8 +34,8 @@ Figma
 
 ## CODE:
 
-'''
-Home Page 
+```
+Home Page
 
 <!DOCTYPE html>
 <html lang="en">
@@ -577,8 +577,7 @@ body {
   z-index: -1;
 }
 
-
-'''
+```
 
 ## OUTPUT:
 ![alt text](Home.png)
